@@ -62,6 +62,9 @@ Check out this great talk from 34c3 Chaos Computer Conference
 - <https://github.com/kolide>
 - <https://github.com/airbnb/streamalert>
 
+Osquery Conference:
+- <https://querycon.io/>
+
 
 ### Santa
 - <https://github.com/google/santa>
