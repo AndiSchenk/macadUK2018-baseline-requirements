@@ -12,6 +12,7 @@ Links and references from macadUK 2018 talk
 ### Automated Baseline checks 
 
 - <https://www.inspec.io>
+- <https://thenewstack.io/chef-bulks-security-compliance-automation-cloud/>
 - <https://github.com/kristovatlas/osx-config-check>
 
 ## Linux infrastructure hardening
