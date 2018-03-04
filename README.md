@@ -34,6 +34,9 @@ Links and references from macadUK 2018 talk
 
 example how to acquire a sha256 hash from cli `shasum -a 256 /path/to/item`
 
+### install validation
+
+- <https://github.com/marczak/pkgdiff> 
 
 ### Log aggregation
 
