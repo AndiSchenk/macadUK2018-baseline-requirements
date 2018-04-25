@@ -50,6 +50,10 @@ example how to acquire a sha256 hash from cli `shasum -a 256 /path/to/item`
 - <https://zentral.io>
 - <https://github.com/airbnb/streamalert>
 
+### Pkg snapshot method
+
+- <https://github.com/execriez/RADrepkg>
+
 ### Secure Developer build chains
 
 Check out this great talk from 34c3 Chaos Computer Conference
